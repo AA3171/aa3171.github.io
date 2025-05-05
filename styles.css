@@ -1,16 +1,23 @@
 /* Global variables. */
+.mina {
+  float: right;
+  max-width: 15em;
+}
 .changer {
   position: absolute;
   top: 0px;
 }
 .changerimg {
-  max-width: 4.5em;
+  max-width: 3em;
 }
 .tourass {
   background: radial-gradient(rgb(17, 0, 201) 0%, rgb(0, 0, 0) 100%);
   border-radius: 20px;
   height: 75%;
   width: 75%;
+}
+.vpet {
+  width: 5em;
 }
 :root {
   /* Set sans-serif & mono fonts */
