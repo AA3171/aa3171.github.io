@@ -2,6 +2,7 @@
 .mina {
   float: right;
   max-width: 15em;
+  max-width: 50%;
 }
 .changer {
   position: absolute;
